@@ -9,3 +9,5 @@ It uses:
 - Firebase for cloud database
 
 -This app written in Java for Android users.
+
+Google Play link: https://play.google.com/store/apps/details?id=com.myapp.bahuzu&hl=en_US
