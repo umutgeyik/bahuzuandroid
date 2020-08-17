@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "998204625464",
+    "firebase_url": "https://bahuzu-2014f.firebaseio.com",
+    "project_id": "bahuzu-2014f",
+    "storage_bucket": "bahuzu-2014f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998204625464:android:ef582ee01da9441c770ccd",
+        "android_client_info": {
+          "package_name": "com.myapp.bahuzu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998204625464-iiltg3a6fmp96n10eja019p29cjl06gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANibj_oyNkvKD0fOoKtb-Ew1Zqik6EHgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998204625464-iiltg3a6fmp96n10eja019p29cjl06gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998204625464-tvv394lf2uroc47bk5f79tu5v8lj7bb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "orhun-org.terapi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998204625464:android:40e072d7a556e65d770ccd",
+        "android_client_info": {
+          "package_name": "com.myapp.denemeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998204625464-iiltg3a6fmp96n10eja019p29cjl06gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANibj_oyNkvKD0fOoKtb-Ew1Zqik6EHgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998204625464-iiltg3a6fmp96n10eja019p29cjl06gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998204625464-tvv394lf2uroc47bk5f79tu5v8lj7bb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "orhun-org.terapi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DoctorHandles.DoctorSozlesmelerPage">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:paddingBottom="30dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="Madde – 1 TARAFLAR
+İşbu Sözleşme merkezi merkezi Istanbul / Kadıköy / Bostancı Mah. /Bostancı City konutları b1 blok
+daire 6 adresinde bulunan BAHUZU (“UYGULAMA”) ile ......................................... adresinde
+bulunan .................................(“DANIŞMAN”) arasında akdedilmiştir.
+İşbu Sözleşmede UYGULAMA ve DANIŞMAN ayrı ayrı “TARAF”; birlikte “TARAFLAR” olarak
+anılabilecektir.
+Madde – 2 SÖZLEŞME’NİN KONUSU
+İşbu Sözleşme’nin konusu, DANIŞMAN’ın UYGULAMA aracılığı ile kullanıcılara vereceği
+danışmanlık hizmeti kapsamında TARAFLAR arasındaki ilişkinin ve bu kapsamda yürütülecek
+faaliyetler çerçevesinde TARAFLAR’ın hukuki ilişkideki hak ve yükümlülüklerinin belirlenmesidir.
+Madde – 3 TANIMLAR
+Danışman: İşbu sözleşme hükümleri kapsamında UYGULAMA üzerinden kullanıcılarla bir araya
+gelerek psikolojik danışmanlık hizmeti veren kişiyi,
+Uygulama: Sözleşmenin tarafı, danışman ile kullanıcı arasındaki ilişkinin kurulmasına aracılık sağlayan
+mobil uygulama platformunu,
+Danışmanlık Hizmeti: İşbu sözleşme hükümleri kapsamında danışanların danışmanlardan uygulama
+aracılığı ile alacakları psikolojik danışmanlık hizmetini,
+Danışan/ Kullanıcı: Uygulama sayesinde Danışman ile iletişime geçerek psikolojik danışmanlık
+hizmeti alan kişiyi
+Cezai Şart: Sözleşme serbestisi ilkesi çerçevesinde UYGULAMA sahibi tarafından işbu sözleşme
+hükümlerine aykırı davranılması halinde Danışman’a uygulanacak götürü tazminatı,
+Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+Özel Nitelikli Kişisel Veri: Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi
+veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza
+mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri,
+KVKK: 6698 sayılı Kişisel Verilerin Korunması Kanununu,
+Kurul: Kişisel Verileri Koruma Kurulu’nu,
+ifade eder.
+Madde – 4 TARAFLAR’IN HAK VE YÜKÜMLÜLÜKLERİ
+4.1. UYGULAMA ile KULLANICI’ya mobil uygulama üzerinden online psikolojik danışmanlık
+hizmeti verilecektir. Bu kapsamda, uygulama konusu hizmetin kullanıcılara sağlanabilmesi için işbu
+Sözleşme TARAFLAR arasında imzalanmaktadır.
+UYGULAMA, işbu Sözleşme hükümleri çerçevesinde KULLANICI ile DANIŞMAN’ı bir araya
+getirerek online danışmanlık hizmetinin verilmesini sağlayacaktır.
+
+DANIŞMAN, işbu Sözleşme hükümleri çerçevesinde KULLANICI’ya mobil uygulama üzerinden
+belirlenen saatte danışmanlık hizmetini sağlayacaktır.
+4.2. DANIŞMAN, işbu sözleşme hükümleri kapsamında UYGULAMA tarafından sunulacak saatler
+aralığında, uygulama üzerinden kendisi ile iletişime geçmek isteyen kullanıcı ile belirledikleri saat
+aralığında bir araya gelecektir.
+4.3. DANIŞMAN, UYGULAMA tarafından belirlenen saatlerden kendisine uygun olan bir saati seçmek
+üzere KULLANICI ile görüşmelerini gerçekleştirecektir. DANIŞMAN’ın ayda 3 kere seans iptal hakkı
+bulunmakta olup seansa katılamayacağı bir durumun meydana gelmesi halinde en az 4 saat öncesinde
+gecikmeksizin UYGULAMA’yı bilgilendireceğini kabul, beyan ve taahhüt eder. DANIŞMAN’ın işbu
+hükme uymaması halinde UYGULAMA’nın bildirimde bulunmaksızın Sözleşmeyi tek taraflı feshetme
+hakkı saklıdır.
+KULLANICI ile DANIŞMANIN kararlaştırdıkları saatte bir araya gelmeleri esas olup raporla
+ispatlanamayan (ölüm, trafik kazası ve ağır hastalık vb.) acil durum halleri dışında Danışmanın
+kararlaştırılan saati iptal etmesi halinde UYGULAMA’nın bildirimde bulunmaksızın Sözleşmeyi tek
+taraflı feshetme hakkı saklıdır.
+4.4. UYGULAMA işbu Sözleşme hükümleri kapsamında DANIŞMAN’ın KULLANICILARLA bir
+araya gelmesine aracılık edecek olup bu kapsamda DANIŞMAN’a gerekli desteği sağlayacaktır.
+4.5. TARAFLAR, işbu Sözleşme kapsamında hukuka aykırı davranmayacaklarını, sözleşme etiğine ve
+ahlakına sadık kalacaklarını kabul, beyan ve taahhüt ederler.
+4.6. DANIŞMAN, KULLANICI ile yaşayacağı olası bir ihtilafta veya anlaşmazlıkta derhal
+UYGULAMA’yı bilgilendireceğini ve UYGULAMA’yı bilgilendirmeksizin herhangi bir aksiyon
+almayacağını kabul, beyan ve taahhüt eder.
+4.7. KULLANICI’nın DANIŞMAN ile UYGULAMA’nın bilgisi dışında iletişime geçmesini mukabil
+DANIŞMAN, UYGULAMA’ya gecikmeksizin bildirim yapacağını kabul, beyan ve taahhüt eder.
+4.8. DANIŞMAN, KULLANICILARLA gerçekleştirdiği seanslarda arka fonda kendisini tanımlayacak
+ve/veya kendisini belirlenebilir kılacak sembol vb. ifadelerin yer almasından kaçınacağını, bu kapsamda
+özen yükümlülüğüne azami ölçüde dikkat göstereceğini ve hiçbir koşulda KULLANICILAR ile
+iletişime geçmeyeceğini kabul, beyan ve taahhüt eder. DANIŞMAN’ın işbu hükme uymaması halinde
+UYGULAMA’nın Sözleşmeyi tek taraflı feshetme hakkı saklıdır.
+4.9.TARAFLAR, sözleşmesel ilişki kapsamında UYGULAMA tarafından belirlenen seans ücretlerinde
+ve komisyonda mutabık kalınması halinde tutarlarda değişiklik sağlayabilirler.
+Madde 5 – SÖZLEŞME’NİN SONA ERMESİ VE FESHİ
+5.1. İşbu Sözleşme, DANIŞMAN tarafından 1 ay önce UYGULAMA’ya bildirimde bulunmak kaydıyla
+feshedilebilecektir.
+5.2. KULLANICILAR tarafından DANIŞMAN’a verilen puanların düşüklüğü, KULLANICI
+şikâyetleri ve/veya memnuniyetsizliği ile KULLANICI ile karşılıklı mutabık kalınarak oluşturulmuş
+seansların DANIŞMAN tarafından en az 4 kez olmak ve UYGULAMA’ya bildirimde bulunmaksızın
+iptal edilmesi hallerinde işbu Sözleşme UYGULAMA tarafından derhal ve DANIŞMAN’a bildirimde
+bulunulmaksızın feshedilebilecektir.
+Madde 6 – TİCARİ SIRLAR VE GİZLİLİK
+
+6.1. TARAFLAR’ın işbu Sözleşme kapsamında birbirlerine verecekleri her türlü bilgi ve teknik veri,
+know-how, standart ve uygulama, eğitim ve doküman, fiyat bilgisi, teknik detay, teknik çizimler ile
+yazışmaların tümü ticari sır ve gizli bilgi olarak kabul edilecektir.
+6.2. TARAFLAR, gizli bilgileri kopyalamayacaklarını ve başkalarının kullanımına vermeyeceklerini,
+çalışanlarına işin doğru bir şekilde yürümesi için gerekli olduğu kadarı ile açıklayacaklarını, bu
+bağlamda var ise çalışanlarının davranışlarından da sorumlu olacaklarını ve işbu Sözleşme
+kapsamındaki iş ve faaliyetleri dışında kullanmayacaklarını, başkalarına da kullandırtmamak için
+beklenen her türlü önlemi alacaklarını kabul, beyan ve taahhüt ederler.
+6.3. Bu gizlilik yükümlülüğünün Sözleşme’nin devamı süresince veya Sözleşme’nin herhangi bir
+nedenle sona ermesi halinde 1 (bir) yıl süreyle devam edeceğini kabul, beyan ve taahhüt ederler.
+Madde 7 - BÖLÜNEBİLİRLİK
+İşbu Sözleşme’nin bazı hükümlerinin süreç içerisinde uygulanmaması ve/veya geçerliliğini yitirmesi,
+Sözleşme’nin diğer hükümlerinin geçerliliğini etkilemeyecektir.
+Madde 8 – SÖZLEŞME’NİN BÜTÜNLÜĞÜ
+İşbu Sözleşme aşağıda Ek olarak belirtilen KVKK Ek Protokolü ile birlikte bir bütündür. DANIŞMAN,
+işbu Sözleşme kapsamında aşağıda yer verilen KVKK Ek Protokolü’nün sayfalarını paraflayarak ve
+işbu Sözleşmenin sonuna atacağı imza ile ayrıca paylaşılacak KVKK Ek Protokol metinleri ile de bağlı
+hale gelecektir.
+Madde 9 – SÖZLEŞME’NİN SÜRESİ, YÜRÜRLÜK TARİHİ
+9.1. İşbu Sözleşme, TARAFLAR’ın işbu Sözleşme’yi imzalaması akabinde yürürlüğe girecek olup
+belirsiz süreli olarak düzenlenmiştir.
+9.2. Sözleşmenin feshine ilişkin düzenlemeler, 5 inci maddede yer almaktadır.
+Madde 10– KİŞİSEL VERİLERİN KORUNMASI
+10.1. TARAFLAR, işbu Sözleşme kapsamında toplanan veya aktarılan kişisel verilerin işlenmesi,
+aktarılması ve muhafazasında 6698 sayılı Kişisel Verilerin Korunması Kanunu, yasal dayanağını bu
+kanundan alan ikincil mevzuat, uluslararası mevzuatlar (“GDPR”) ve Kişisel Verileri Koruma Kurulu
+kararlarına (hep birlikte “Veri Koruma Mevzuatı”) uygun davranacaklarını, Veri Koruma Mevzuatı’nın
+gerektirdiği uygun güvenlik düzeyini temin etmeye yönelik idari ve teknik tedbirleri alacaklarını, kişisel
+verileri bu Sözleşme’nin amacı dışında farklı bir amaç için kullanmayacaklarını ve hukuka aykırı olarak
+işlemeyeceklerini, kişisel verilere hukuka aykırı erişim olmasını engelleyeceklerini ve kişisel verileri
+Veri Koruma Mevzuatı’na aykırı paylaşmayacaklarını kabul, beyan ve taahhüt ederler.
+10.2.TARAFLAR’ın kişisel verilerin işlenmesinde Veri Koruma Mevzuatı’nın gerektirdiği uygun
+güvenlik düzeyini temin etmeye yönelik idari ve teknik tedbirleri almaması, kişisel verilere izinsiz bir
+erişim olması, kişisel verilerin bu Sözleşme’nin amacı dışında bir amaç ile kullanılması, hukuka aykırı
+olarak işlenmesi, kişisel verilere hukuka aykırı erişim olması veya kişisel verilerin üçüncü kişiler ile
+yürürlükte olan Veri Koruma Mevzuatı’na aykırı paylaşılması hallerinde, kesinleşmiş bir mahkeme
+ilamı ile kendisinden talep edilecek doğrudan maddi zararları aykırı davranan TARAF kusuru nispetinde
+karşılayacaktır.
+Madde 11– REKABET YASAĞI
+11.1. DANIŞMAN, işbu Sözleşme ile bağlı olduğu süre zarfı boyunca edindiği KULLANICILAR ile
+Sözleşme bitiminden itibaren 1 yıl boyunca iletişime geçmeyeceğini, pazarlama faaliyetlerinde
+
+bulunmayacağını, KULLANICILAR’dan gelen olası iletişim taleplerini kabul etmeyeceğini ve işbu
+Rekabet Yasağı hükmüne uyacağını kabul, beyan ve taahhüt eder.
+11.2. DANIŞMAN’ın, 11.1. maddede belirtilen Rekabet Yasağı’na ilişkin hükmü ihlal etmesi halinde,
+olayın vuku bulduğu tarihteki güncel asgari ücretin 5 katı tutarında cezai tazminat uygulanacaktır.
+Madde 12 – CEZAİ ŞART
+12.1 DANIŞMAN’ın işbu Sözleşme ile yüklendiği edimlerden birisini ifa etmemesi veya Sözleşme ile
+kararlaştırılan şekil ve vasıfta ifa etmemesi halinde, UYGULAMA bildirimde bulunmaksızın işbu
+Sözleşmeyi tek taraflı olarak sözleşmeyi feshedebilir.
+12.2. DANIŞMAN’ın işbu sözleşmeden kaynaklanan yükümlülüklerini yerine getiremeyecek olması
+halinde işbu Sözleşme UYGULAMA tarafından tek taraflı olarak bildirimde bulunulmaksızın
+feshedilebilecektir.
+12.3. DANIŞMAN’ın UYGULAMA’nın bilgisi dışında KULLANICILAR ile iletişime geçerek farklı
+bir platformda görüşmeleri gerçekleştirmesi halinde işbu durum haksız fiil olarak nitelendirilecek olup
+asgari ücretin 20 katı tutarında cezai tazminat uygulanacaktır.
+Madde 13– MUHTELİF HÜKÜMLER
+13.1. DANIŞMAN, Sözleşme’nin 4 üncü Maddesinde belirtilen hak ve yükümlülükleri kapsamında
+uygulamadan faydalanacak kullanıcılarla iletişime geçecek olup sözleşmenin herhangi bir döneminde
+Uygulamanın bilgisi dışında ve/veya Uygulamadan habersiz kullanıcılarla farklı platformlardan
+iletişime geçmeyeceğini, kullanıcıların kendisi ile UYGULAMA’dan habersiz iletişime geçmesi
+durumunda ise derhal UYGULAMA’ya bildirimde bulunacağını kabul, beyan ve taahhüt eder.
+13.2. 13.1.’de yer alan hükme DANIŞMAN tarafından uyulmaması halinde 12.3.’te yer alan Cezai Şart
+düzenlemesi uygulama alanı bulacaktır.
+13.3. İşbu Sözleşmede yer alan hükümler UYGULAMA tarafından DANIŞMAN’a bildirimde
+bulunmak kaydıyla tadil edilebilecektir. Sözleşme ve ekleri arasında herhangi bir çelişki olması halinde
+işbu Sözleşme hükümleri uygulanacaktır.
+13.4. Uygulama kapsamında yapılacak ödemelere ve vergilere ilişkin hususlara aşağıda belirtilen 3 ayrı
+başlık altında yer verilmektedir:
+a. Fatura kesebilen DANIŞMANLAR için; DANIŞMAN’a seans ücreti üzerinden brüt %75+KDV
+oranında ücret ödenecek olup bunun karşılığında DANIŞMAN tarafından brüt %75+KDV oranında
+ücretin kendisine ödendiğini belirten fatura kesilecektir.
+b. Makbuz kesebilen DANIŞMANLAR için; UYGULAMA tarafından ödenecek stopaj vergisi
+düşülmek kaydıyla, DANIŞMAN’a seans ücreti üzerinden brüt %75+KDV oranında ücret ödenecek
+olup DANIŞMAN tarafından brüt %75+KDV oranında ücretin kendisine ödendiğini belirten
+makbuz kesilecektir.
+c. Fatura veya makbuz kesemeyen DANIŞMANLAR için; UYGULAMA tarafından %75’lik gider
+pusulası kesilecek olup yine UYGULAMA tarafından karşılanan %20’lik stopaj vergisinin %75’lik
+gider pusulasından düşülmesiyle birlikte kalan tutar DANIŞMAN’a ödenecektir.
+Madde 14 – DEVİR YASAĞI
+
+14.1. DANIŞMAN, UYGULAMA’nın yazılı muvafakatini almaksızın, işbu Sözleşmedeki
+yükümlülüklerini, hak ve alacaklarını, gerçek veya tüzel üçüncü bir şahsa devir ve temlik edemeyecek;
+bir başka gerçek veya tüzel üçüncü bir şahsa herhangi bir sebeple, bu Sözleşmede ve dolayısıyla ilgili
+yasal hükümlerde kayıtlı sorumluluklarına, hak ve alacaklarına ortak edemeyecektir.
+14.2. DANIŞMAN ile UYGULAMA arasında işbu Sözleşme hükümleri kapsamında sözleşmesel ilişki
+bulunmakta olup UYGULAMA’nın tabi olduğu şirket türü ve ismi olası koşullarda değişkenlik
+gösterebilecektir. Bu durumda, DANIŞMAN’ın Sözleşme ile düzenlenen hak ve yükümlülükleri yeni
+Şirket nezdinde devam edecek olup işbu Sözleşme yeni Şirkete devredilmiş kabul edilecektir.
+Madde 15 – TEBLİGAT VE SAİR BİLDİRİMLERE İLİŞKİN ADRES
+TARAFLAR’ın tebligat adresleri, Sözleşme’nin 1. maddesinde belirtilmiştir. Değişiklikler 10 (on) gün
+içinde yazılı olarak bildirilmediği sürece bu adreslere yapılacak tebligatların kendilerine yapılmış
+olacağını TARAFLAR kabul ederler. Sözleşme’nin feshine ve TARAFLAR’ın işbu Sözleşme’den
+kaynaklanan yükümlülüklerinin ifasına dair yapılacak bildirimler noter kanalıyla yapılacak olup
+UYGULAMA tarafından yukarıdaki düzenlemelerde belirtilen bildirimsiz fesih hükümleri saklıdır.
+Madde 16 – YETKİLİ MAHKEME VE İCRA DAİRELERİ
+Sözleşme’nin ifası ve yorumundan kaynaklanan ihtilafların çözümünde İstanbul (Merkez) Mahkemeleri
+ve İcra Daireleri münhasıran yetkili olacaktır.
+Madde 17 – İMZA
+17.1. İşbu Sözleşme 15 maddeden oluşmakta ve ..................... tarihinde 2 (iki) nüsha şeklinde
+imzalanmış olup imzalı birer nüsha TARAFLAR’a verilmek üzere düzenlenmiştir.
+17.2. İşbu sözleşme TARAFLAR arasında imzalanmakla birlikte yürürlüğe girer."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:paddingBottom="30dp"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="KVKK EK PROTOKOLÜ
+
+İşbu Kişisel Verilerin Korunmasına İlişkin KVKK Ek Protokolü (“Protokol”) bir tarafta BAHUZU
+(Bundan sonra “UYGULAMA” veya “Veri Sorumlusu” olarak anılacaktır.) ile diğer tarafta
+........................................................... (bundan sonra “DANIŞMAN” veya “Veri İşleyen” olarak
+anılacaktır.) arasında ....... .tarihinde yapılmış olan Çerçeve Danışmanlık Hizmet Sözleşmesi’ne ek
+olarak aşağıda yer verilen şartlar dahilinde akdedilmiştir.
+İşbu Sözleşme kapsamında UYGULAMA ile DANIŞMAN ayrı ayrı “TARAF” birlikte “TARAFLAR”
+olarak anılacaktır.
+1. TANIMLAR
+Açık Rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı,
+Anonim Hale Getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği
+belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini,
+Alt Veri İşleyen: Veri İşleyen emir ve talimatları doğrultusunda, kendisine verilen yetki dahilinde
+veri işleme faaliyetini yerine getiren tarafı,
+Geçerli Veri Koruma Mevzuatı: Başta 6698 Sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) ve
+ikincil düzenlemeler ile kişisel verinin tabii olacağı kişisel verilerin korunmasına ilişkin sair
+mevzuatı,
+İlgili Kişi: Kişisel verisi işlenen gerçek kişiyi,
+İmha: Kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesini,
+Kişisel Veri: Kimliği belirlenmiş ya da belirlenebilecek olan bir bireye ilişkin her türlü bilgi,
+Kurul: Kişisel Verileri Koruma Kurulu’nu,
+Kurum: Kişisel Verileri Koruma Kurumu’nu,
+KVKK: 6698 s. Kişisel Verilerin Korunması Kanunu’nu
+Özel Nitelikli Kişisel Veri: Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi
+veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza
+mahkûmiyeti ve güvenlik tedbirleriyle ilgili veriler ile biyometrik ve genetik verileri,
+
+Teknik ve İdari Güvenlik Tedbirler: Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek,
+erişilmesini önlemek ve kişisel verilerin hukuka uygun olarak muhafazasını sağlamak amacıyla
+alınması gereken tedbirleri,
+Veri İşleme: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt
+sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi,
+depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması,
+devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi
+gibi veriler üzerinde gerçekleştirilen her türlü işlemi ifade eder. “İşlem” kelimesinden türetilen tüm
+kelimelerin anlamı bu bağlamda tanımlanır.
+Veri İşleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen
+gerçek veya tüzel kişiyi,
+Veri Sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin
+kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
+ifade eder.
+Yukarıda yer verilmeyen kavramlar, işbu Protokol’de aksi belirtilmediği müddetçe KVKK ile ikincil
+düzenlemelerinde yer alan tanımlara tabii olacaktır.
+2. PROTOKOLÜN KONUSU
+İşbu Protokol’ün konusu, Çerçeve Danışmanlık Hizmet Sözleşmesi kapsamında DANIŞMAN
+tarafından KULLANICILARA ait kişisel verilerin, KVKK ve ikincil mevzuatlar çerçevesinde hukuka
+uygun olarak işlenmesi ile aktarılmasına, DANIŞMAN tarafından UYGULAMA’ya veri aktarımı
+faaliyetlerinin işbu KVKK düzenlemelerine uygun bir şekilde gerçekleştirilmesini sağlamak ve
+tarafların hak ve yükümlülüklerini düzenlemekten ibarettir.
+3. TARAFLARIN HAK ve YÜKÜMLÜLÜKLERİ
+3.1.DANIŞMAN, UYGULAMA’ya aktarılan ve UYGULAMA tarafından işlenen kişisel verilere
+ilişkin olarak, ilgili kişilere KVKK ve ikincil mevzuat hükümleri ile sair kişisel veri mevzuatı
+dahilinde aydınlatma yükümlülüğünü yerine getireceğini ve yine mevzuat uyarınca açık
+rıza alınması gereken hallerin mevcudiyeti halinde ilgili kişilerin açık rızalarının alınacağını
+kabul, beyan ve taahhüt eder.
+3.2.DANIŞMAN, kişisel verilerin hukuka aykırı olarak işlenmesini ve erişilmesini önleyeceğini,
+mevzuat hükümlerine uygun olarak muhafazasını sağlamak amacıyla kişisel verinin
+niteliğine göre uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve
+idari tedbirleri alacağını kabul, beyan ve taahhüt eder.
+
+3.3.TARAFLAR, KULLANICILARA ilişkin kişisel verilere yönelik güvenlik ihlali ve/veya
+kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlleri ile
+karşılaştıklarında gecikmeksizin diğer tarafı bilgilendireceklerini kabul, beyan ve taahhüt
+eder.
+3.4.DANIŞMAN; Çerçeve Danışmanlık Hizmet Sözleşmesi kapsamında sunacağı hizmetler
+dahilinde, UYGULAMA tarafından aktarılan, KULLANICILARDAN aktarılan ve kimi
+zaman KULLANICIDAN doğrudan topladığı kişisel verileri, işbu Protokol’de yer verilen
+hükümlere uygun şekilde “Veri İşleyen” ve somut olaya göre kimi zaman “Veri Sorumlusu”
+sıfatıyla işleyeceğini kabul, beyan ve taahhüt eder.
+3.5. DANIŞMAN, veri işleme esnasında KVKK ve sair mevzuat hükümleri ile Kurulun karar ve
+görüşlerine uyacağını, kabul, beyan ve taahhüt eder.
+3.6. DANIŞMAN; kişisel verilerin hukuka aykırı olarak işlenmesini ve erişilmesini
+önleyeceğini, mevzuat hükümleri uygun olarak muhafazasını sağlamak amacıyla kişisel
+verinin niteliğine göre uygun güvenlik düzeyini temin etmeye yönelik her türlü teknik ve
+idari güvenlik önlemleri alacağını, personelini bilgilendirmek ve düzenli olarak yapacağı
+veya yaptıracağı testler ve değerlendirmelerle bu önlemlerin etkinliğini sürdüreceğini
+kabul, beyan ve taahhüt eder.
+3.7. Aktarılan verilerin niteliğine göre UYGULAMA veri aktarımının kendi belirleyeceği
+güvenli aktarım yöntemiyle gerçekleştirebilecek olup bu halde, DANIŞMAN bu
+yöntemlere uymakla yükümlü olduğunu kabul, beyan ve taahhüt eder.
+3.8. DANIŞMAN sözleşme uyarınca KULLANICILARA ait “Özel Nitelikli Kişisel Veriler”in
+işlenmesinin ve aktarımının söz konusu olması halinde, DANIŞMAN söz konusu verileri
+niteliklerine uygun bir şekilde ek güvenlik önlemleri ve yetkilendirmelere tabi şekilde
+koruyacağını ve amacın gerçekleşmesini veya yasal saklama süresinin sona ermesini
+takiben silme/yok etme veya anonim hale getirme işlemlerine tabi tutacağını kabul, beyan
+ve taahhüt eder.
+3.9. DANIŞMAN, personelinin, alt çalışanlarının ve kendisine bağlı olarak çalışan diğer
+kişilerin kişisel verilere erişim yetkilerini mevzuata uygun olarak tanımlayacağını;
+personelinin, alt çalışanlarının ve kendisine bağlı olarak çalışan diğer kişilerin tanımlanan
+erişim yetkilerini kullanarak erişilen kişisel verileri ve erişim için kullandığı
+şifreleri/metotları hiç kimse ile paylaşmamasını sağlayacağını; bu kapsamda gerekli gizlilik
+sözleşmelerinin akdedileceğini kabul, beyan ve taahhüt eder.
+3.10. DANIŞMAN, kendi personelinin ister kendi bünyesinde çalıştığı dönemde isterse
+ayrılmasını müteakip herhangi bir şekilde işbu sözleşmenin ifası kapsamında edinilen
+
+kişisel verileri üçüncü kişilere açıklaması halinde doğabilecek her türlü zararlardan dolayı
+personel ile birlikte müştereken sorumlu olacaklarını kabul, beyan ve taahhüt eder.
+3.11. DANIŞMAN, işbu sözleşme kapsamında denetim yetkisine sahip UYGULAMA’dan gelen
+soruları mümkün olan en kısa sürede usulüne uygun olarak cevaplandıracağını, ilgili kişiler
+tarafından KVKK ve sair düzenlemeler uyarınca UYGULAMA’ya iletilen her türlü talebin
+yerine getirilmesi adına UYGULAMA’nın DANIŞMAN’dan bilgi ve belge almasına gerek
+bulunduğu durumlarda, gerekli bilgi ve belgeyi en kısa zamanda karşılamayı kabul, beyan
+ve taahhüt eder.
+3.12. DANIŞMAN; UYGULAMA adına işlediği kişisel verilere ilişkin şüpheli güvenlik ihlali ile
+kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde bu
+durumu en geç 12 saat içerisinde UYGULAMA’yı bilgilendirmekle yükümlüdür.
+3.13. DANIŞMAN; (i) yetkili resmi bir makamdan gelen ve kişisel verilerin söz konusu makama
+açıklanması gereken bağlayıcı erişim talepleri veya (ii) yetkili resmi bir kurumun
+DANIŞMAN’a karşı tedbire başvurması halinde, DANIŞMAN, UYGULAMA’yı en geç 12
+saat içerisinde durumdan haberdar edeceğini kabul, beyan ve taahhüt eder.
+3.14. DANIŞMAN’ın işbu Protokol hükümlerinin ihlali dolayısıyla UYGULAMA’nın yasal, idari
+veya cezai bir yaptırıma tabi tutulması, idari para cezasına hükmedilmesi ve/veya herhangi
+bir zararı tazminle mükellef kılınması halinde DANIŞMAN bu zararı kusuru oranında
+tazmin edeceğini kabul, beyan ve taahhüt eder.
+3.15. DANIŞMAN, işbu Protokol’ün veya Bahuzu Çerçeve Sözleşmesi’nin feshedilmesi veya
+yürürlük süresinin sona ermesi halinde, UYGULAMA’ nın talimatları doğrultusunda,
+aktarıma konu kişisel verileri yedekleri ile birlikte UYGULAMA’ya geri göndereceğini ya
+da kişisel verileri tamamen yok edeceğini kabul, beyan ve taahhüt eder.
+4. SÜRE
+İşbu KVKK Ek Protokolü, ........ Tarihli Çerçeve Sözleşmenin eki olarak, UYGULAMA tarafından
+veya doğrudan KULLANICILAR tarafından aktarılan kişisel verilerin DANIŞMAN nezdinde
+işlendiği süre boyunca yürürlükte kalacak olup TARAFLARIN 6698 s. Kişisel Verilerin Korunması
+Kanunu ve sair mevzuattan doğan yükümlülükleri devam edecektir.
+
+5. YÜRÜRLÜK
+İşbu Protokol, iki nüsha olarak imza edilerek ....../....../.........tarihi itibariyle yürürlüğe girmiştir.
+
+6. UYUŞMAZLIK HALİNDE YETKİ
+İşbu Protokol’de yer alan hususlarda uyuşmazlık olması halinde, İstanbul Mahkemeleri yetkili
+olacak ve Türkiye Cumhuriyeti Kanunları uygulanacaktır.
+7. İHBAR
+TARAFLAR, işbu Sözleşme kapsamında gereken tüm muhaberat ve ihbarları yazılı olarak faks veya
+e-posta kanalı da dâhil olmak üzere diğer tarafa bildirimde bulunmayı kabul, beyan ve taahhüt
+ederler."/>
+
+
+        <Button
+            android:id="@+id/loginBttn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_margin="20dp"
+            android:background="@color/color_deneme1"
+            android:text="Sözleşmeleri Onaylıyorum"
+            android:onClick="onayClicked"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:fontFamily="@font/montserrat_alternates_bold"
+            android:textSize="25dp" />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

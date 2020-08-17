@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/password_change_button"
+        android:title="Hesap Bilgileri"
+        android:icon="@drawable/ic_format_list"/>
+    <item
+        android:id="@+id/profil_info_change"
+        android:title="Profil Bilgileri"
+        android:icon="@drawable/ic_format_list"/>
+
+    <item
+        android:id="@+id/iletisim_button"
+        android:title="İletişim"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:id="@+id/iptal_button"
+        android:title="Erteleme Talebi"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:id="@+id/sozlesme_button"
+        android:title="Kullanıcı Sözleşmesi"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:id="@+id/other_sozleme_button"
+        android:title="Diğer Sözleşmeler"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:id="@+id/logout_button"
+        android:title="Çıkış Yap"
+        android:icon="@drawable/ic_person"/>
+</menu>

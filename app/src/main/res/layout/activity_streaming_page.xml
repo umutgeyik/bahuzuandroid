@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StreamingPage">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:clickable="true"
+            android:onClick="hideShowButtons"
+            android:id="@+id/subscriber_container" >
+
+
+
+            <ImageButton
+                android:id="@+id/swapBttn"
+                android:onClick="switchClicked"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:elevation="10dp"
+                android:layout_gravity="top"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/swaps3x" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:elevation="10dp"
+                android:weightSum="100">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="33.3"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/microphoneBttn"
+                        android:onClick="microphoneOpenCloseClicked"
+                        android:layout_width="50dp"
+                        android:elevation="10dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="left|bottom"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="15dp"
+                        android:background="@drawable/microx" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="33.3"
+                    android:gravity="center">
+                    <ImageButton
+                        android:id="@+id/disconnectBttn" android:onClick="disconnectFromSessionClicked"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:elevation="10dp"
+                        android:layout_gravity="bottom|center"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/phonex3x" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="33.3"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+
+                    <ImageButton
+                        android:id="@+id/cameraBttn"
+                        android:layout_width="44dp"
+                        android:layout_height="47dp"
+                        android:layout_gravity="bottom|center"
+                        android:layout_marginBottom="15dp"
+                        android:background="@drawable/ic_music_and_multimedia"
+                        android:elevation="10dp"
+                        android:onClick="cameraOpenClose" />
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="90dp"
+            android:layout_height="120dp"
+            android:id="@+id/publisher_container"
+            android:layout_gravity="bottom|end"
+            android:layout_marginBottom="100dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:padding="2dp"
+            android:background="#FFFFFF" />
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

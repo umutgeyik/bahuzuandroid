@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/doctorRegisterContPanel"
+    tools:context=".DoctorHandles.DoctorRegisterContPage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:isScrollContainer="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/professionText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="20sp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/montserrat"
+                android:maxLength="40"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:hint="Uzmanlık Alanınız"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/experienceText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="20sp"
+                android:inputType="textMultiLine"
+                android:maxLines="10"
+                android:scrollbars="horizontal"
+                android:fontFamily="@font/montserrat"
+                android:hint="Deneyimleriniz"
+                android:scrollHorizontally="true"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColorHint="@color/color_editText" />
+
+
+            <EditText
+                android:id="@+id/descriptionText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Hakkınızda"
+                android:inputType="textMultiLine"
+                android:maxLines="10"
+                android:scrollbars="horizontal"
+                android:textColorHint="@color/color_editText"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/priceText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Fiyat (45 dakika)"
+                android:inputType="number"
+                android:maxLines="10"
+                android:scrollbars="horizontal"
+                android:textColorHint="@color/color_editText"
+                android:textSize="20sp"
+                android:maxLength="3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/phoneText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="20sp"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Telefon Numarası"
+                android:inputType="phone"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/emailText" />
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+    <Button
+        android:id="@+id/loginBttn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:background="@color/color_deneme1"
+        android:text="Kayda Devam Et"
+        android:onClick="registerClicked"
+        android:textAllCaps="false"
+        android:fontFamily="@font/montserrat_alternates_bold"
+        android:textSize="25dp" />
+</RelativeLayout>

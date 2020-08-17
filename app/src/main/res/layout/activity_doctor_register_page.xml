@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/doctorRegisterPanel"
+    tools:context=".DoctorHandles.DoctorRegisterPage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:isScrollContainer="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/nameText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="25sp"
+                android:fontFamily="@font/montserrat"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:hint="Ad"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/surnameText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="25sp"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Soyad"
+                android:textStyle="bold"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/emailText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:textColorHint="@color/color_editText"
+                android:textSize="25sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/passwordText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="25sp"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Şifre"
+                android:inputType="textPassword"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/emailText" />
+            <EditText
+                android:id="@+id/passwordAgainText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:textSize="25sp"
+                android:fontFamily="@font/montserrat"
+                android:gravity="center"
+                android:hint="Şifre Tekrar"
+                android:textStyle="bold"
+                android:inputType="textPassword"
+                android:textColorHint="@color/color_editText"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/emailText" />
+            <TextView
+                android:id="@+id/sozlemeText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textSize="15dp"
+                android:layout_margin="20dp"
+                android:clickable="true"
+                android:onClick="sozlesmeClicked"
+                android:gravity="center"
+                android:text="@string/sozlesme"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+    <Button
+        android:id="@+id/loginBttn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:background="@color/color_deneme1"
+        android:text="Kayda Devam Et"
+        android:onClick="continueClicked"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:fontFamily="@font/montserrat_alternates_bold"
+        android:textSize="25dp" />
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myapp.bahuzu">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MenuHandles.DoctorOtherSozlesmeler"></activity>
+        <activity android:name=".DoctorHandles.DoctorSozlesmelerPage" />
+        <activity android:name=".DoctorHandles.DoctorRegisterPage" />
+        <activity android:name=".WelcomePage" />
+        <activity
+            android:name=".UserRatingPopUp"
+            android:theme="@style/AppTheme.PopMe" />
+        <activity
+            android:name=".StreamingPage"
+            android:configChanges="orientation|keyboardHidden|screenLayout|screenSize" />
+        <activity
+            android:name=".StreamingEnterPopUp"
+            android:theme="@style/AppTheme.PopMe" />
+        <activity
+            android:name=".Sozlesme"
+            android:theme="@style/AppTheme.PopMeOutSide" />
+        <activity
+            android:name=".SecurePage"
+            android:noHistory="true"
+            android:theme="@style/AppTheme.PopMe" />
+        <activity android:name=".PasswordForgetPage" />
+        <activity android:name=".LoginPage" />
+        <activity android:name=".AfterBuyPopUp" />
+        <activity android:name=".UserHandles.RegisterPage" />
+        <activity android:name=".UserHandles.RandevuAraPage" />
+        <activity
+            android:name=".UserHandles.RandevuAlPage"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".UserHandles.DoctorTimesPage" />
+        <activity android:name=".UserHandles.DoctorInformationPage" />
+        <activity android:name=".UserHandles.DoctorHoursPage" />
+        <activity android:name=".MenuHandles.PasswordChangePage" />
+        <activity android:name=".MenuHandles.IptalTalebiPage" />
+        <activity android:name=".MenuHandles.IletisimPage" />
+        <activity android:name=".MenuHandles.DoktorIptalPage" />
+        <activity android:name=".MenuHandles.DoctorInformationUpdatePage" />
+        <activity android:name=".DoctorHandles.TimePickerPage" />
+        <activity android:name=".DoctorHandles.DoctorRegisterTimePage" />
+        <activity android:name=".DoctorHandles.DoctorRegisterContPage" />
+        <activity android:name=".DoctorHandles.DoctorRandevuSaatleri" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".AlarmReceiver" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

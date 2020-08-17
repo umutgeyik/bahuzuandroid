@@ -1,0 +1,2 @@
+rootProject.name='Bahuzu'
+include ':app'

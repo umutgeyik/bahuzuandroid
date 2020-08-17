@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Sozlesme"
+    android:fillViewport="true">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:paddingBottom="30dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:text="
+BAHUZU MOBİL UYGULAMASI, HERHANGİ BİR ACİL DURUMDA VEYA TIBBİ İHTİYAÇLAR İÇİN KULLANILMAMALIDIR. TIBBİ BİR ACİL DURUM OLDUĞUNDA HEMEN 122’Yİ ARAYINIZ.
+
+İNTİHARA MEYİLLİ İSENİZ, KENDİNİZE VEYA BİR BAŞKASINA ZARAR VEREBİLECEĞİNİZİ DÜŞÜNÜYORSANIZ, KENDİNİZİN VEYA BİR BAŞKASININ TEHLİKEDE OLDUĞUNU DÜŞÜNÜYORSANIZ, ACİL TIBBI BİR DURUM VARSA, İLGİLİ ACİL SERVİS NUMARASININ ARANMASINI VE İLGİLİ MAKAMLARA BİLDİRİLMESİNİ TAVSİYE EDERİZ.
+
+Madde 1 Taraflar a) ‘’BAHUZU’’ uygulamasının faaliyetlerini yürüten Bahuzu şahıs şirketi. (Bundan böyle ŞİRKET olarak anılacaktır,Şirket isminin ya da ünvanın değişmesi yapılan ve kabul edilen sözleşmelerin geçerliliğini iptal etmez ve her üye aslında şirket adına ve değişim halinde BAHUZU uygulamasıyla anlaşmış sayılır).
+
+b) ‘’BAHUZU’’ uygulamasına üye olan uygulama kullanıcısı.(Bundan böyle “DANIŞAN ” olarak anılacaktır.)
+
+c) ‘’BAHUZU’’ uygulamasında üyeler destek sağlayan uzman kişiler .(Bundan böyle ‘’DANIŞMAN’’ olarak anılacaktır.)
+
+Madde 2 Sözleşmenin Konusu
+
+İşbu Sözleşme’nin konusu ŞİRKET’ in sahip olduğu BAHUZU (mobil uygulama) içeriğinde, Danışanların destek almak istediği alanlarda uzman kişilere (DANIŞMAN) en hızlı ve güvenilir şekilde ulaşmasını sağlamaktır. BAHUZU bünyesinde bulunan Danışmanlar kesinlikle TIBBİ HİZMET yahut TIBBİ TAVSİYE vermemektedirler.
+
+Madde 3 Tarafların Hak ve Yükümlülükleri
+
+3.1. Danışan, BAHUZU uygulamasına üye olurken verdiği kişisel ve diğer sair bilgilerin kanunlar önünde doğru olduğunu, ŞİRKET’in bu bilgilerin gerçeğe aykırılığı nedeniyle uğrayacağı tüm zararları aynen ve derhal tazmin edeceğini beyan ve taahhüt eder.
+
+3.2. Danışan, BAHUZU tarafından kendisine verilmiş olan şifreyi başka kişi ya da kuruluşlara veremez, Danışanın söz konusu şifreyi kullanma hakkı bizzat kendisine aittir. Bu sebeple doğabilecek tüm sorumluluk ile üçüncü kişiler veya yetkili merciler tarafından ŞİRKET’e karşı ileri sürülebilecek tüm iddia ve taleplere karşı, ŞİRKET’in söz konusu izinsiz kullanımdan kaynaklanan her türlü tazminat ve sair talep hakkı saklıdır.
+
+3.3. Danışan, BAHUZU uygulamasını kullanırken yasal mevzuat hükümlerine riayet etmeyi ve bunları ihlal etmemeyi baştan kabul ve taahhüt eder. Aksi takdirde, doğacak tüm hukuki ve cezai yükümlülükler tamamen ve münhasıran Danışanı bağlayacaktır.
+
+3.4. Danışan, BAHUZU uygulamasını hiçbir şekilde kamu düzenini bozucu, genel ahlaka aykırı, başkalarını rahatsız ve taciz edici şekilde, yasalara aykırı bir amaç için, başkalarının fikri ve telif haklarına tecavüz edecek şekilde kullanamaz. Danışan, hiçbir koşul da Danışmanı tıbbi tavsiye vermeye, ilaç önerisinde bulunmaya zorlayamaz. Ayrıca, Danışan başkalarının hizmetleri kullanmasını önleyici veya zorlaştırıcı faaliyet (spam, virus vb.) ve işlemlerde bulunamaz.
+
+3.5. Danışan, Danışmanların verdiği yahut vereceği bilgiler, tavsiyeler yahut önerdikleri/önerecekleri kurum, kuruluş, ürün ve benzerinin Danışman’ın şahsi görüşleri ve bilgi birikimi olduğunu ve bu bilgilerden dolayı ŞİRKET’in herhangi bir sorumluluğu bulunmadığını kabul etmiştir.
+
+3.6. BAHUZU uygulamasında Danışan tarafından beyan edilen, yazılan, kullanılan fikir ve düşünceler tamamen Danışanların kendi kişisel görüşleridir ve görüş sahibini bağlar. Bu görüş ve düşüncelerin ŞİRKET ile hiçbir ilgi ve bağlantısı yoktur. ŞİRKET’ın Danışanın beyan edeceği fikir ve görüşler nedeniyle üçüncü kişilerin uğrayabileceği zararlardan ve üçüncü kişilerin beyan edeceği fikir ve görüşler nedeniyle üyenin uğrayabileceği zararlardan dolayı herhangi bir sorumluluğu bulunmamaktadır.
+
+3.7. ŞİRKET, Danışan verilerinin yetkisiz kişilerce okunmasından ve üye yazılım ve verilerine gelebilecek zararlardan dolayı sorumlu olmayacaktır. Danışan, BAHUZU uygulamasının kullanılmasından dolayı uğrayabileceği herhangi bir zarar yüzünden ŞİRKET’ten tazminat talep etmemeyi peşinen kabul etmiştir.
+
+3.8. Danışan, danışman ile iletişiminde genel ahlak kurallarına uymak ve bu doğrultuda yükümlülüklerini yerine getirmekle yükümlüdür. Danışan ile danışman arasında geçen olumsuz görüşmelerin danışan tarafından ŞİRKET’e bildirilmesi halinde (danışanın görüşmenin olumsuzluğuna dair gerçekçi gerekçeleri olması halinde) ŞİRKET, danışanı, başka bir danışmana yönlendirecek ve danışan memnuniyetini en üst seviyede tutacaktır.
+
+3.9. Danışan, diğer internet kullanıcılarının yazılımlarına ve verilerine izinsiz olarak ulaşmamayı veya bunları kullanmamayı kabul etmiştir. Aksi takdirde, bundan doğacak hukuki ve cezai sorumluluklar tamamen Danışana aittir.
+
+3.10. İşbu üyelik sözleşmesi içerisinde sayılan maddelerden bir ya da birkaçını ihlal eden Danışan işbu ihlal nedeniyle cezai ve hukuki olarak şahsen sorumlu olup, ŞİRKET’i bu ihlallerin hukuki ve cezai sonuçlarından ari tutacaktır. Ayrıca; işbu ihlal nedeniyle, olayın hukuk alanına intikal ettirilmesi halinde, ŞİRKET’in Danışana karşı üyelik sözleşmesine uyulmamasından dolayı tazminat talebinde bulunma hakkı saklıdır.
+
+3.11. BAHUZU’in her zaman tek taraflı olarak gerektiğinde Danışanın üyeliğini silme, Danışana ait dosya,belge ve bilgileri silme hakkı vardır. Danışan işbu durumu önceden kabul eder. Bu durumda, BAHUZU’in hiçbir sorumluluğu yoktur.
+
+3.12.BAHUZU uygulamasının yazılım ve tasarımı ŞİRKET’in mülkiyetinde olup, bunlara ilişkin telif hakkı ve/veya diğer mülkiyet hakları ilgili kanunlarca korunmakta olup, bunlar Danışan tarafından izinsiz kullanılamaz, iktisap edilemez ve değiştirilemez.
+
+3.13. BAHUZU, Danışanın kişisel bilgilerini yasal bir zorunluluk olarak işlendiğinde veya yasal gereklere uygun hareket etmek veya BAHUZU’a tebliğ edilen yasal işlemlere uymak, uygulamanın haklarını ve mülkiyetini korumak ve savunmak için gerekli olduğuna iyi niyetle kanaat getirdiği hallerde açıklayabilir.
+
+3.14. BAHUZU uygulamasının virüs ve benzeri amaçlı uygulamalardan arındırılmış olması için tedbirler alınmıştır. Bunun yanında eksiksiz ve tam güvenliğin sağlanması için Danışanın kendi virüs koruma sistemini tedarik etmesi ve gerekli korumayı sağlaması gerekmektedir. Aksi takdirde, kendi yazılım ve işletim sistemlerinde oluşabilecek tüm hata ve bunların doğrudan ya da dolaylı sonuçlarından kendisinin sorumlu olacağını kabul etmiş sayılır.
+
+3.15. ŞİRKET uygulamanın içeriğini dilediği zaman değiştirme, kullanıcılara sağlanan herhangi bir hizmeti değiştirme ya da sona erdirme veya kayıtlı kullanıcı bilgi ve verilerini silme hakkını saklı tutar.
+
+3.16. ŞİRKET, üyelik sözleşmesinin koşullarını hiçbir şekil ve surette ön ihbara ve/veya ihtara gerek kalmaksızın her zaman değiştirebilir, güncelleyebilir veya iptal edebilir. Değiştirilen, güncellenen yada yürürlükten kaldırılan her hüküm , yayın tarihinde tüm Danışanlar bakımından hüküm ifade edecektir.
+
+3.17. Taraflar, BAHUZU’a ait tüm uygulama kayıtlarının tek ve gerçek münhasır delil olarak, HMK 193. maddesine uygun şekilde esas alınacağını ve söz konusu kayıtların bir delil sözleşmesi teşkil ettiği hususunu kabul ve beyan eder.
+
+3.18. BAHUZU, iş bu üyelik sözleşmesi uyarınca, Danışanlarının kendisinde kayıtlı elektronik posta adreslerine bilgilendirme mailleri ve cep telefonlarına bilgilendirme SMS ’leri gönderme yetkisine sahip olmakla beraber, Danışan işbu üyelik sözleşmesini onaylamasıyla beraber bilgilendirme maillerinin elektronik posta adresine ve bilgilendirme SMS’ lerinin cep telefonuna gönderilmesini kabul etmiş sayılacaktır.
+
+3.19. Danışan, BAHUZU üzerinde yayınladığı, gösterdiği, gönderdiği tüm bilge, belge, video, fotoğraf, sesli mesaj, e- maillerden ve diğer tüm içeriklerden tek olarak doğrudan sorumlu olup, ŞİRKET’in bu konuda herhangi bir sorumluluğu olmadığını kabul etmektedir.
+
+3.20. Danışan, iş bu sözleşmenin ayrılmaz bir parçası olan Uygulama Gizlilik Sözleşmesini onaylayarak, BAHUZU aracılığı ile hukuka aykırı, tehdit, hakaret içeren içerik göstermeyeceğini, göndermeyeceğini kabul etmiş sayılır.
+
+Madde 4 Danışan üyelik ücretleri
+
+4.1 Danışan, mobil uygulamaya ücretsiz olarak üye olabilecek olup, hizmet almak istediği danışman olması halinde aylık üyelik, 6 aylık üyelik ve yıllık üyelik seçeneklerinden birini seçip hizmeti satın alacaktır.
+
+4.2. Danışanın aylık üyeliği seçmesi halinde ay bazında ödeme yapacak olup, üye olduğu danışmandan ödeme yaptığı ay boyunca hizmet alacaktır. Danışan, üyeliğini iptal etmediği takdirde hizmet aldığı danışmana ait üyelik her ay düzenli olarak otomatik olarak yenilenecektir.
+
+4.3. Danışanın 6 aylık ve 1 yıllık üyeliği seçmesi halinde ise üyelik başlangıcında hizmet bedeli tamamen çekilecek olup üyeliğin iptal edilmesi halinde kalan dönemler için para iadesi yapılmayacağını danışan kabul etmektedir.
+
+4.4. Danışanın farklı danışmanlardan hizmet almak istemesi halinde her danışman için üyelik yapması gerekmekte olup, tek bir danışmana üyelik diğer danışman hizmetlerini kapsamamaktadır.
+
+4.5. Danışan hizmet almak istediği danışmanın ödemesini ödeme hizmet sağlayıcısı aracılığıyla yapacak olup, ödeme sağlayıcısı ile ilgili yaşanan teknik aksaklıklar ve hatalardan ŞİRKET sorumlu olmayacaktır.
+
+4.6. Danışan, kendisine ait kredi kartının kendi kusurundan kaynaklanan sebeplerle geçersiz olarak kullanılması nedeni ile ilgili banka veya finans kuruluşunun hizmet bedelinin ödenmemesi halinde, danışmana bu hususta bilgi vererek bu eksikliğin 3 gün içinde giderilmesini sağlamayı aksi takdirde danışan üyeliğinin iptal edileceğini ve kendisine her türlü yasal işlemin yapılacağını kabul ve taahhüt eder.
+
+
+
+Madde 5 Mesafeli Satış Sözleşmesi
+
+Sanayi Ticaret Bakanlığı’nın Mesafeli Satış Sözleşmelerine Dair Yönetmeliğine ilişkin hükümleri taraflarca kabul beyan ve taahhüt edilmiş olup, bu yönetmeliğin hükümlerinden taraflar karşılıklı olarak sorumludurlar.
+
+
+Madde 6 Sözleşmenin Feshi
+
+İşbu sözleşme Danışanın üyeliğini iptal etmesi veya ŞİRKET tarafından üyeliğinin iptal edilmesine kadar yürürlükte kalacaktır. BAHUZU danışanın üyelik sözleşmesinin herhangi bir hükmünü ihlal etmesi durumunda Danışanın üyeliğini iptal ederek sözleşmeyi tek taraflı olarak feshedebilecektir.
+
+Madde 7 İhtilafların Halli
+
+İşbu sözleşmeye ilişkin ihtilaflarda İstanbul Mahkemeleri ve İcra Daireleri yetkilidir.
+
+Madde 8 Yürürlük
+
+Danışanın, üyelik kaydı yapması üyelik sözleşmesinde yer alan tüm maddeleri okuduğun ve üyelik sözleşmesinde yer alan tüm maddeleri kabul ettiği anlamına gelir. İşbu Sözleşme Danışanın mobil uygulamaya üye olması anında akdedilmiş ve karşılıklı olarak yürürlülüğe girmiştir."/>
+
+
+</ScrollView>

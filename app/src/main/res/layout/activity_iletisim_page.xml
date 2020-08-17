@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    tools:context="com.myapp.bahuzu.MenuHandles.IletisimPage">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/toolbar"
+        android:contentInsetLeft="0dp"
+        android:contentInsetStart="0dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        android:contentInsetRight="0dp"
+        android:contentInsetEnd="0dp"
+        app:contentInsetRight="0dp"
+        app:contentInsetEnd="0dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="İletişim Kanallarımız"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20dp"
+            android:gravity="center" />
+
+    </com.google.android.material.appbar.MaterialToolbar>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:onClick="websiteClicked"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:paddingTop="20dp"
+                android:src="@drawable/ic_app_icon_small"/>
+            <TextView
+                android:id="@+id/website"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="bahuzu.com"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat_alternates_bold"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:onClick="instagramClicked"
+        android:layout_gravity="center"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="@drawable/ic_instagram"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="bahuzu"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat_alternates_bold"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="twitterClicked"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="@drawable/ic_twitter"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="bahuzuofficial"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat_alternates_bold"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:onClick="youtubeClicked"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="@drawable/ic_youtube"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bahuzu Online Terapi"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat_alternates_bold"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:onClick="facebookClicked"
+        android:layout_gravity="center"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="@drawable/ic_facebook"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Facebook Sayfamız"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/montserrat_alternates_bold"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>
